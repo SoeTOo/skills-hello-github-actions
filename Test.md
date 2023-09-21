@@ -55,3 +55,15 @@ Using emoji
 **Soe**, :+1: this PR looks great - it's ready to merge! :shipit:
 
 
+Here is a simple footnote[^1].  
+A footnote can also have multiple lines[^2]
+
+[^1]: My reference
+[^2]: To add line breaks withing a footnote, prefix new lines with 2 spaces.  
+This is a second line.  
+This is a third line.
+
+
+
+
+
