@@ -63,7 +63,22 @@ A footnote can also have multiple lines[^2]
 This is a second line.  
 This is a third line.
 
+## Adding Alert
 
+
+> [!NOTE]
+> Highlights information that users should take into account, even when skimming.
+
+> [!IMPORTANT]
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]
+> Critical content demanding immediate user attention due to potential risks.
+
+
+
+<!-- This content will not appear in the rendered Markdown, pleae ignore it -->
+<!-- Here to insert picture later -->
 
 
 
