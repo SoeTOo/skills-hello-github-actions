@@ -19,3 +19,4 @@ This site was built using [GitHub Page](https://pages.github.com/)
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
+[Electrocat](/assets/images/electrocat.png)
