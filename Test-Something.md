@@ -8,7 +8,7 @@ Testing something here.
 <p align="center">  Version 1.00</p>
 <p align="center"> Document Classification : <span style="color:red">Subnero Confidential</span></p>
 <p align="center">
-<img style="padding-top:5vh; padding-bottom:5vh" align="center" src="./images/subnero.png" width="200" height="100%">
+<img style="padding-top:5vh; padding-bottom:5vh" align="center" src="https://github.com/SoeTOo/skills-communicate-using-markdown/blob/main/image/subnero.png" width="200" height="100%">
 
 <div style="page-break-after: always;"></div>
 <div style="padding-top:5vh;"></div>
